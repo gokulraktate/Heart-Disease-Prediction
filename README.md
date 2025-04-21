@@ -27,7 +27,7 @@ This project is a web-based application built using **Streamlit** that classifie
 1. Clone the repository:
 
 ```bash
-git clone "https://github.com/gokulraktate/Heart-Disease-Prediction"
+git clone "https://github.com/gokulraktate/Heart-Disease-Prediction.git"
 ```
 
 2. Navigate to the project directory:
